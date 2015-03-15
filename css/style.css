@@ -340,6 +340,12 @@ section.section {
 #testimonials{	
 	background-image: url(../img/parallax/img3.jpg);
 }
+
+#splash {
+	background-image: url(../img/parallax/helm_splash_1980.jpg);
+	background-size: 100% 100%;
+	height: 550px;  /* Tweak size if necessary...*/
+}
 /*===========================
   --- Header & menu ----
 =========================== */
@@ -430,6 +436,8 @@ h1 a.navbar-brand {
   --- Featured section ----
 =========================== */
 
+
+
 section.featured {
 	padding: 200px 0 60px;
 	background: #70B9B0;
@@ -437,8 +445,8 @@ section.featured {
 }
 
 section.featured h2.slogan {
-	color: #fff;
-	font-size: 48px;
+	color: #000033;  /* Helm Blue */
+	font-size: 60px;
 	font-weight: 900;
 }
   
@@ -1087,5 +1095,9 @@ Media queries
 	
 	.stats .col-md-3 {
 		margin-bottom: 30px;
+	}
+
+	#splash {
+		height: auto;
 	}
 }
