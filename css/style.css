@@ -333,12 +333,15 @@ section.section {
 
 #parallax1{	
 	background-image: url(../img/parallax/parallax1_bus.jpg);
+	height: 600px;
 }
 #parallax2{	
 	background-image: url(../img/parallax/parallax2_skyline.jpg);
+	height: 600px;
 }
 #testimonials{	
 	background-image: url(../img/parallax/parallax3_couple.jpg);
+	height: 600px;
 }
 
 #splash {
