@@ -339,8 +339,9 @@ section.section {
 	background-image: url(../img/parallax/parallax2_skyline.jpg);
 	height: 600px;
 }
-#testimonials{	
-	background-image: url(../img/parallax/parallax3_couple.jpg);
+
+#parallax3{	
+	background-image: url(../img/parallax/parallax3_opportunity.jpg);
 	height: 600px;
 }
 
